@@ -1,0 +1,14 @@
+.container {
+  background-color: red;
+}
+
+.list {
+  background-color: blue;
+}
+
+.itemCell {
+}
+
+.itemContent {
+  display: flex;
+}

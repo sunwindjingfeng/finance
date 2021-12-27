@@ -1,0 +1,1 @@
+export { getAllStockData } from "./StockServices";
